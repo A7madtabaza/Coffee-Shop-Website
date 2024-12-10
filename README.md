@@ -1,6 +1,6 @@
 # Coffee-Shop-Website
 # Coffee Website Project
-[figma](https://www.figma.com/design/Q837xlZJlFyob3hcucQ3qc/Untitled?m=auto&t=IlxAaPMuCTEEaK5O-6)
+[figma](https://www.figma.com/proto/M25fWvClxL0JvOYFUqq6wr?node-id=0-1&t=XaJ2cjThWLVGUKYs-6)
 ___
 ## General Description:
 This project is an e-commerce website dedicated to selling coffee products online. The website includes several pages that provide a comprehensive and user-friendly experience. The site features a login page, a homepage showcasing key products and offers, a menu page with available coffee options, payment methods, location information, and a contact page for customer support.
